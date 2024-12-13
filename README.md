@@ -15,3 +15,5 @@ Kĩ thuật sử dụng
 UI, va chạm, nhặt item, xử lí item, âm thanh, memu...
 
 Link Demo: https://youtu.be/ahE6j9OXMbE?si=-vBltJFDJ1-J_Wap
+
+Link tải tài nguyên: https://drive.google.com/drive/folders/14DMK2uKjyOg5YdFEtiIKh2Px8ulX6LK6
